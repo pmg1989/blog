@@ -10,8 +10,8 @@
 
 * 基础系列
     * [Flex 布局教程-语法篇-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-* 拔高专题
-    * [immutable.js常用API简介](https://yq.aliyun.com/articles/69516)
+* 基础系列
+    * [Flex 布局教程-语法篇-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
     * [React源码解析(一):组件的实现与挂载](https://juejin.im/post/5983dfbcf265da3e2f7f32de)
 * 拔高专题
     * [immutable.js常用API简介](https://yq.aliyun.com/articles/69516)
