@@ -13,6 +13,8 @@
     * [Unix时间戳查询](http://tool.chinaz.com/Tools/unixtime.aspx)
     * [ESLint Rules](https://cn.eslint.org/docs/rules/)
     * [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
+    * [pxcook切图标注利器](http://www.fancynode.com.cn/pxcook)
+    * [cutterman PS 切图插件](http://www.cutterman.cn/zh)
 * 基础系列
     * [Flex 布局教程-语法篇-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
     * [十大经典排序算法总结（JavaScript描述）](https://www.cnblogs.com/jztan/p/5878630.html)
