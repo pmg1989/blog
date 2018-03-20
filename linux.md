@@ -11,6 +11,7 @@
     * rm -rf dir : 强制删除dir目录
     * cp file1 file2 : cp [ 来源文件 ] [目的文件]
     * cp -r dir1 dir2 : cp [选项] [ 来源目录 ] [目的目录]
+    * mv source dist : 移动或者重命名文件/目录
     
     
     
