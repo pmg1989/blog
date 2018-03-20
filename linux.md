@@ -5,8 +5,8 @@
     * 查看：jobs
     * 停止：fg [jobs的编号]
 
-* 原生启动后台服务
-    * 启动：nohup yarn run start &
+* 常用命令
+    * 启动：nohup yarn run start &
     * 查看：jobs
     * 停止：fg [jobs的编号]
     
