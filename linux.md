@@ -8,7 +8,7 @@
 * 常用命令
 
     * which node : 用来查找一个命令的绝对路径
-* How to make a reducer using Immutable data.
+    * rm -rf dir : 强制删除dir目录
 * How to make a selector using Immutable data.
 * How to use middleware.
 * How to use [react-hot-reload](https://github.com/gaearon/react-hot-loader).
