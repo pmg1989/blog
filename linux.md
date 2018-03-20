@@ -6,6 +6,6 @@
     * 停止：fg [jobs的编号]
 
 * 常用命令
-    * 查看：jobs
-    * 停止：fg [jobs的编号]
+    * which node : 用来查找一个命令的绝对路径
+    * 停止：fg [jobs的编号]
     
