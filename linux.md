@@ -9,6 +9,6 @@
 
     * which node : 用来查找一个命令的绝对路径
     * rm -rf dir : 强制删除dir目录
-    * cp test1 test2 : cp [选项] [ 来源文件 ] [目的文件]
+    * cp file1 file2 : cp [选项] [ 来源文件 ] [目的文件]
     
     
