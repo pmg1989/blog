@@ -7,7 +7,7 @@
 
 * 常用命令
 
-* which node : 用来查找一个命令的绝对路径
+    * which node : 用来查找一个命令的绝对路径
 * How to make a reducer using Immutable data.
 * How to make a selector using Immutable data.
 * How to use middleware.
