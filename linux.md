@@ -11,7 +11,7 @@
     * rm -rf dir : 强制删除dir目录
     * cp file1 file2 : cp [ 来源文件 ] [目的文件]
     * cp -r dir1 dir2 : cp [选项] [ 来源目录 ] [目的目录]
-    * mv source dist : 移动或者重命名文件/目录
+    * mv source dist : 移动或者重命名文件/目录(mv /usr/bin/node{,.bak}  =  mv /usr/bin/node /usr/bin/node.bak)
     * chgrp [组名] [文件名] : 更改文件的所属组
     * chown [ -R ] 账户名:组名 文件名 : 更改文件的所属主
     * whereis node : 通过预先生成的一个文件列表库去查找跟给出的文件名相关的文件
