@@ -16,6 +16,7 @@
     * chown [ -R ] 账户名:组名 文件名 : 更改文件的所属主
     * whereis node : 通过预先生成的一个文件列表库去查找跟给出的文件名相关的文件
     * find /root -name filename : 在/root目录下查找文件名为filename的文件
+    * [vim 快捷键](http://wiki.jikexueyuan.com/project/linux/vim.html)
     
     
     
