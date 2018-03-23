@@ -20,3 +20,4 @@
     * [文档的压缩与打包](http://wiki.jikexueyuan.com/project/linux/compression-and-packaged.html)
     * tar -zcvf test.tar.gz test : 将test目录压缩至test.tar.gz压缩包
     * tar -zxvf test01.tar.gz : 解压test01.tar.gz文件
+    * 进入docker容器 : docker exec -it containerId /bin/bash
