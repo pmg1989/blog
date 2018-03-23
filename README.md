@@ -30,3 +30,4 @@
 * docker系列
     * [利用Docker容器搭建高效的Node.js开发环境](https://yalishizhude.github.io/2017/08/10/docker4node/)
     * [Docker部署基于Nodejs的Web应用-实战篇](https://segmentfault.com/a/1190000010541792)
+    * [基于 Docker 打造前端持续集成开发环境](https://juejin.im/post/5a142d7b6fb9a0451170c2c7)
