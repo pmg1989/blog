@@ -1,4 +1,3 @@
-### git clone https://felixpmg:1q2w3e4r@git.coding.net/newband-dev/lms_web_2.0.git
 * 原生启动后台服务
     * 启动：nohup yarn run start &
     * 查看：jobs
