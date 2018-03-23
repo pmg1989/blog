@@ -28,3 +28,4 @@
     * [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
     * [graphql](http://graphql.cn/)
     * [利用Docker容器搭建高效的Node.js开发环境](https://yalishizhude.github.io/2017/08/10/docker4node/)
+    * [Docker部署基于Nodejs的Web应用-实战篇](https://segmentfault.com/a/1190000010541792)
