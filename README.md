@@ -27,3 +27,4 @@
     * [React源码解析(四):事件系统](https://juejin.im/post/5a0cf54ff265da43333df2c4)
     * [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
     * [graphql](http://graphql.cn/)
+    * [利用Docker容器搭建高效的Node.js开发环境](https://yalishizhude.github.io/2017/08/10/docker4node/)
