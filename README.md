@@ -32,3 +32,4 @@
     * [Docker部署基于Nodejs的Web应用-实战篇](https://segmentfault.com/a/1190000010541792)
     * [基于 Docker 打造前端持续集成开发环境](https://juejin.im/post/5a142d7b6fb9a0451170c2c7)
     * [基于Docker的无痛部署](https://minghe.me/2017-01-16-%E5%9F%BA%E4%BA%8EDocker%E7%9A%84%E6%97%A0%E7%97%9B%E9%83%A8%E7%BD%B2.html)
+    * [Docker Nginx 部署 React](https://segmentfault.com/a/1190000010415158)
