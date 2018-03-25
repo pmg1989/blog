@@ -1,4 +1,5 @@
-* Linux 安装 NodeJS 步骤
+### Linux 安装 NodeJS
+* 基本步骤
     * cd /opt
     * 下载二进制文件：wget https://nodejs.org/dist/v8.10.0/node-v8.10.0-linux-x64.tar.xz
     * 解压文件：tar -xvf node-v8.10.0-linux-x64.tar.xz
