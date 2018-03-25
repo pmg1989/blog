@@ -7,6 +7,9 @@
 * 方法一：修改/etc/profile文件 增加以下内容
     * export NODE_HOME=/opt/nodejs
     * export PATH=$NODE_HOME/bin:$PATH
+* 方法一：修改/etc/profile文件 增加以下内容
+    * export NODE_HOME=/opt/nodejs
+    * export PATH=$NODE_HOME/bin:$PATH
 * 方法二：建立软链接，配置全局环境变量
     * ln -s /opt/nodejs/bin/npm /usr/local/bin/
     * ln -s /opt/nodejs/bin/node /usr/local/bin/
