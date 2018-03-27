@@ -26,7 +26,8 @@
     * [React源码解析(三):详解事务与队列](https://juejin.im/post/59cc4c4bf265da0648446ce0)
     * [React源码解析(四):事件系统](https://juejin.im/post/5a0cf54ff265da43333df2c4)
     * [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
-    * [graphql](http://graphql.cn/)  
+    * [graphql](http://graphql.cn/)
+    * [使用 React.js 的渐进式 Web 应用程序：第 3 部分 - 离线支持和网络恢复能力](https://juejin.im/entry/58350983a22b9d006bbb90d3)
 * docker系列
     * [利用Docker容器搭建高效的Node.js开发环境](https://yalishizhude.github.io/2017/08/10/docker4node/)
     * [Docker部署基于Nodejs的Web应用-实战篇](https://segmentfault.com/a/1190000010541792)
