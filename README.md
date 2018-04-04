@@ -21,6 +21,7 @@
     * [十大经典排序算法总结（JavaScript描述）](https://www.cnblogs.com/jztan/p/5878630.html)
     * [如何在Vscode中使用Git和git-flow](http://www.xiaolaiwo.com/how-to-use-git-and-git-flow-in-vscode.html)
     * [git-flow 备忘清单](https://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+    * [git 打标签并推送tag到托管服务器](http://yijiebuyi.com/blog/007269d04d5096d9397ce3daf9d84c48.html)
 * 拔高专题
     * [immutable.js常用API简介](https://yq.aliyun.com/articles/69516)
     * [React之Immutable学习记录](http://blog.poetries.top/2017/11/20/react-study-Immutable/)
