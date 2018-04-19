@@ -5,6 +5,7 @@
 
 * 常用命令
     * git clone https://felixpmg:1q2w3e4r@git.coding.net/newband-dev/lms_web_2.0.git
+    * ssh-copy-id -i ~/.ssh/id_rsa.pub root@xxx.xx.xx.xxx
     * which node : 用来查找一个命令的绝对路径
     * rm -rf dir : 强制删除dir目录
     * cp file1 file2 : cp [ 来源文件 ] [目的文件]
