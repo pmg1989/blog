@@ -41,6 +41,7 @@
     * [pm2从入门到精通(QQ购买登录授权)](https://www.kancloud.cn/daiji/pm2/395273)
     * [express 之 生产环境最佳实践：安全](http://expressjs.com/zh-cn/advanced/best-practice-security.html)
     * [使用next.js完成从开发到部署](https://juejin.im/post/5b08078b51882538ad3f163d)
+    * [命令行翻墙](https://bitbucket.org/yuetsh/blog/wiki/2018/%E5%BC%80%E5%90%AF%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BF%BB%E5%A2%99)
 * docker系列
     * [利用Docker容器搭建高效的Node.js开发环境](https://yalishizhude.github.io/2017/08/10/docker4node/)
     * [Docker部署基于Nodejs的Web应用-实战篇](https://segmentfault.com/a/1190000010541792)
