@@ -50,6 +50,7 @@
     * [lru-cache 缓存 Api 数据](https://www.mmxiaowu.com/article/58666e94b31b4b0734dd01be)
     * [TypeScript React 高阶组件](https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb)
     * [pm2部署遇到process.cwd报错的解决方法](http://ju.outofmemory.cn/entry/300329)
+    * [实例解析防抖动（Debouncing）和节流阀（Throttling）](https://jinlong.github.io/2016/04/24/Debouncing-and-Throttling-Explained-Through-Examples/)
 * docker系列
     * [利用Docker容器搭建高效的Node.js开发环境](https://yalishizhude.github.io/2017/08/10/docker4node/)
     * [Docker部署基于Nodejs的Web应用-实战篇](https://segmentfault.com/a/1190000010541792)
