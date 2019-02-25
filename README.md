@@ -32,6 +32,7 @@
     * [Node.js - Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [canvas 图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/index.html)
     * [纯 CSS 实现多行文字截断](https://github.com/happylindz/blog/issues/12)
+    * [Android 使用PDF.js浏览pdf](https://www.jianshu.com/p/fec41669acbb)
 * 拔高专题
     * [immutable.js常用API简介](https://yq.aliyun.com/articles/69516)
     * [React之Immutable学习记录](http://blog.poetries.top/2017/11/20/react-study-Immutable/)
