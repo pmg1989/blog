@@ -23,6 +23,7 @@
     * [银行卡的正则表达式](https://my.oschina.net/Customs/blog/1526030)
     * [在线画图工具](https://online.visual-paradigm.com/cn/features/flowchart-tool/)
     * [在线web IDE](https://codesandbox.io)
+    * [oh-my-zsh主题](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
 * 基础系列
     * [Flex 布局教程-语法篇-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
     * [十大经典排序算法总结（JavaScript描述）](https://www.cnblogs.com/jztan/p/5878630.html)
