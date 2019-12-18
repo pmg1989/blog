@@ -25,6 +25,7 @@
     * [在线web IDE](https://codesandbox.io)
     * [oh-my-zsh主题](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
     * [Drony配合Charles实现App定向抓包(安卓支付宝抓包)](https://www.jianshu.com/p/75b3ad732183)
+    * [growingio无埋点采集数据方案](https://accounts.growingio.com/login)
 * 基础系列
     * [Flex 布局教程-语法篇-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
     * [十大经典排序算法总结（JavaScript描述）](https://www.cnblogs.com/jztan/p/5878630.html)
