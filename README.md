@@ -28,6 +28,8 @@
     * [Drony配合Charles实现App定向抓包(安卓支付宝抓包)](https://www.jianshu.com/p/75b3ad732183)
     * [growingio无埋点采集数据方案](https://accounts.growingio.com/login)
     * [力扣刷题网](https://leetcode-cn.com/jobs/all/)
+    * [X5内核调试专用页](https://debugx5.qq.com/)
+    * [浏览器内核版本检测工具](https://ie.icoa.cn/?from=groupmessage)
 * 基础系列
     * [Flex 布局教程-语法篇-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
     * [十大经典排序算法总结（JavaScript描述）](https://www.cnblogs.com/jztan/p/5878630.html)
@@ -71,4 +73,3 @@
     * [Docker Nginx 部署 React](https://segmentfault.com/a/1190000010415158)
     * [docker+webhook自动化部署实践](https://zhuanlan.zhihu.com/p/26877434)
     * [使用 koa 和 react 搭建一个前后端分离中间层同构框架](http://aemoe.listenlite.com/2017/05/18/How%20to%20build/)
-    * [X5内核调试专用页](https://debugx5.qq.com/)
