@@ -30,6 +30,7 @@
     * [力扣刷题网](https://leetcode-cn.com/jobs/all/)
     * [X5内核调试专用页](https://debugx5.qq.com/)
     * [浏览器内核版本检测工具](https://ie.icoa.cn/?from=groupmessage)
+    * [Kibana查询语法使用手册](https://blog.csdn.net/u013958257/article/details/88567581)
 * 基础系列
     * [Flex 布局教程-语法篇-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
     * [十大经典排序算法总结（JavaScript描述）](https://www.cnblogs.com/jztan/p/5878630.html)
