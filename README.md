@@ -47,6 +47,7 @@
     * [Android 使用PDF.js浏览pdf](https://www.jianshu.com/p/fec41669acbb)
     * [TypeScript高级类型Readonly, Required,Partial, Pick, Record](https://www.jianshu.com/p/585b964421c4)
     * [「干货」使用 CSS Snap 优化滚动，提升用户体验](https://www.toutiao.com/i6916665651658555918)
+    * [typescript - keyof typeof](https://www.coder.work/article/1310236)
 * 拔高专题
     * [immutable.js常用API简介](https://yq.aliyun.com/articles/69516)
     * [React之Immutable学习记录](http://blog.poetries.top/2017/11/20/react-study-Immutable/)
