@@ -22,9 +22,10 @@
    cd /usr/local/node-v10/
    wget https://nodejs.org/download/release/v10.17.0/node-v10.17.0-linux-x64.tar.gz
    tar -xvf node-v10.17.0-linux-x64.tar.gz
-   mv node-v10.17.0-linux-x64.tar.gz  nodejs
+   mv node-v10.17.0-linux-x64  nodejs
    rm -rf node-v10.17.0-linux-x64.tar.gz
    
+   # /etc/profile.d/bashsh.sh
    export NODE_HOME=/usr/local/node-v10/nodejs
    export PATH=$NODE_HOME/bin:$PATH
 ```
