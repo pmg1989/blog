@@ -66,7 +66,7 @@
     * [命令行翻墙](https://bitbucket.org/yuetsh/blog/wiki/2018/%E5%BC%80%E5%90%AF%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BF%BB%E5%A2%99)
     * [lru-cache 缓存 Api 数据](https://www.mmxiaowu.com/article/58666e94b31b4b0734dd01be)
     * [TypeScript React 高阶组件](https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb)
-    * [pm2部署遇到process.cwd报错的解决方法](http://ju.outofmemory.cn/entry/300329)
+    * [pm2部署遇到process.cwd报错的解决方法](https://juejin.cn/post/6844903936265027591)
     * [实例解析防抖动（Debouncing）和节流阀（Throttling）](https://jinlong.github.io/2016/04/24/Debouncing-and-Throttling-Explained-Through-Examples/)
     * [深入研究-webkit-overflow-scrolling:touch及ios滚动](https://www.cnblogs.com/xiahj/p/8036419.html)
     * [根据父元素包含的子元素个数，实现不同的样式](https://segmentfault.com/a/1190000010359642)
