@@ -20,3 +20,4 @@
     * tar -zcvf test.tar.gz test : 将test目录压缩至test.tar.gz压缩包
     * tar -zxvf test01.tar.gz : 解压test01.tar.gz文件
     * 进入docker容器 : docker exec -it containerId /bin/bash
+    * 切换账号操作命令： su - deploy -c "bash /home/deploy/restart_pm2.sh prod"
