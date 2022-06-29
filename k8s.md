@@ -62,7 +62,11 @@ saaskubectlprod rollout restart deployment  airent-web-saas-bff
 > kubectl -n istio-system get pods    #获取istio-system的pods
 #### 查看istio的日志
 > kubectl -n istio-system logs -f istio-ingressgateway-69c74dd556-szcsz --tail=20|grep zhixiangyao
+
 > kubectl -n deployment-test describe pod recovery-bff-test888-7cf896fdd8-lbpzd
+
 > saaskubectlprod get gw common-gateway-eshetang -o yaml
+
 > saaskubectlprod get virtualservice saas-erp-eshetang-vs -o yaml > /tmp/vs.yaml
+
 > saaskubectl apply -f /tmp/vs.yaml
